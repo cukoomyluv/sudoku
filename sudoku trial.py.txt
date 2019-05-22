@@ -62,7 +62,7 @@ def num(str):
 #----------------------------------------------------------------------------       
 m=1
 for i in range(12):
-     n=raw_input("Are you ready to paly or you want to exit ----Y/N---")
+     n=raw_input("Are you ready to play or you want to exit ----Y/N---")
      if n=='y' or n=='Y':
          num('a')
      else:
